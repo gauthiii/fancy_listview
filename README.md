@@ -10,9 +10,8 @@ To know more about this package, Visit here [github link](https://github.com/gau
 
 This listview looks like this:
 
-
 <p>
-<img src="https://file%2B.vscode-resource.vscode-cdn.net/e%3A/Flutter%20Pre%20Rquisites/Apps/Packages/fancy_listview/example/flutter_01.png?version%3D1686144775991" height="400">
+<img src="https://github.com/gauthiii/fancy_listview/assets/35861219/49ec5359-73fc-46ff-b6f7-0724d46e52cc" height="400">
 <br>
 </p>
 
