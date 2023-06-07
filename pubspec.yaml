@@ -1,6 +1,6 @@
 name: fancy_listview
-description: Fancy Listview is a flutter package is pre customized widget that displays the regular flutter listview in a pre customized format with neat alignment and a template so that don't need to start from scratch if they want to create an innovative listview for their screens.
-version: 0.0.1
+description: A customized listview widget developed by Gautham Vijayaraj. Can hold a list of list tile widgets only.
+version: 0.0.2 
 homepage: https://github.com/gauthiii/fancy_listview
 
 environment:

@@ -19,7 +19,7 @@ This listview looks like this:
 
 ```yaml
 dependecies:
-  fancy_listview: 0.0.1
+  fancy_listview: 0.0.2
 ```
 
 ## Example
